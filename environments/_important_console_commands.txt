@@ -1,0 +1,12 @@
+python -m venv XX
+source XX/Scripts/activate
+
+python -m ipykernel install --user --name XX--display-name XX
+jupyter kernelspec list
+jupyter kernelspec uninstall XX
+
+
+python -m spacy download de
+pip install -r requirements.txt
+
+pip install ekphrasis emoji gensim germalemma ipykernel langdetect nltk pyLDAvis requests scipy scikit-learn sklearn spacy 

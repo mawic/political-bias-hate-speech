@@ -1,0 +1,1 @@
+Please add here the data set files from GermEval 2019 (https://projects.fzai.h-da.de/iggsa/)

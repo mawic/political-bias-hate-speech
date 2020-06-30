@@ -1,0 +1,1 @@
+Please add here the data set files from GermEval 2018 (https://github.com/uds-lsv/GermEval-2018-Data)
